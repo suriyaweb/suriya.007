@@ -1,0 +1,206 @@
+ul >li{
+    list-style: none;
+    display: inline-block;
+  
+  }
+  ul li > a{
+    text-decoration: none;
+    color:white;
+    font-size: medium;
+    margin-right: 20px;
+  }
+  .navbar{
+    position: sticky;
+    top:0;
+    width:100%;
+    background-color: black;
+    border-radius: 30px;
+  }
+  .navbar-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .navbar-div div > a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .one{
+    text-align: center;
+    font-size: 40px;
+  }
+  .two{
+    display: flex; 
+    margin-left: 130px;
+    
+  }
+  .four{
+    width: 400x;
+    height: 350px;
+    margin-left: 3px;
+  }
+  .five{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    
+  }
+   .www{
+    width: 400px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+   }
+   .ttt{
+    width: 400px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+   }
+   .vvv{
+    width: 400px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+   }
+   .six{
+    width: 400px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 40px;
+   }
+   .seven{
+    width: 400px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+   }
+   .eight{
+    margin-left: 20px;
+    margin-top: 40px;
+   }
+   .night{
+    display: flex;
+    width: 60%;
+   }
+   .ten{
+    width: 650px;
+    height: 450px;
+    padding-left: 150px;
+    padding-top: 45px;
+   }
+   .laven{
+    font-size: 25px;
+    padding-left: 300px;
+    width: 550px;
+    
+    
+   }
+   .suriya{
+    display: flex;
+    justify-content: space-around;
+   }
+   .ux{
+    width: 400px;
+   }
+   .ui{
+    width: 400px;
+   }
+   .uy{
+    width: 400px;
+   }
+   .web{
+    display: flex;
+    justify-content: space-around;
+   }
+   .aaa{
+    width: 400px;
+   }
+   .sss{
+    width: 400px;
+   }
+   .ddd{
+    width: 400px;
+    margin-top: 20px;
+   }
+button{
+  color: white;
+  background-color: rgb(12, 179, 179);
+  width: 70px;
+  height: 40px;
+  font-size: large;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.arun{
+  background-color: black;
+  color: aliceblue;
+  height: 30px;
+  width: 80px;
+  font-size: 20px;
+  padding-top: 3px;
+  padding-left: 11px;
+  border-radius: 20px;
+  margin-top: 60px;
+
+}
+h2{
+  padding-left: 130px;
+}
+.qwe{
+  text-align: center;
+}
+  .ho{
+     width: 95px;
+  height: 50px;
+  background-color: black;
+  color: bisque;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 20px;
+  position: sticky;
+}
+.co{
+width: 95px;
+height: 50px;
+background-color: black;
+color: azure;
+font-size: 30px;
+text-align: center;
+border-radius: 20px;
+position: sticky;
+
+}
+  .zo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-top: 2px;
+    position: sticky;
+    
+  }
+.ks{
+background-color: black;
+width: 60px;
+height: 50px;
+color: azure;
+font-size: 30px;
+text-align: center;
+border-radius: 20px;
+margin-right: 700px;
+position: sticky;
+  }
+.as{
+background-color: black;
+width: 60px;
+height: 50px;
+color: azure;
+font-size: 30px;
+text-align: center;
+border-radius: 20px;
+margin-left: 700px;
+position: sticky;
+  }
